@@ -6,16 +6,19 @@ Collection of Android plugins for Unity
 
 
 ## Introduction
-This project is holds a growing collection of Android plugins for Unity. Currently the project is under initial construction and there are no releases available yet. There is now a list of features/plugins which are nice to have in this project.
+This project holds a growing collection of Android plugins for Unity. Currently the project is under initial construction and there are no releases available. Below you can see the list of plugins and their implementation status. Let us know if there is anything missing here.
+
+## Contribution
+You're more than welcome to contribute to this project. We are not currently working on iOS plugins but it would be a pretty nice additiona and could push this project to the next level.
 
 ## Plugins
-1. Bluetooth
-2. Notifications
-3. Sharing
-4. Battery
-5. Audio
-6. DatePicker
-7. Sensors
-8. Download
-9. Contacts
-10. Text and call
+- [ ] Full Bluetooth Support
+- [ ] Notification Management
+- [ ] Sharing
+- [ ] Battery Information
+- [ ] Audio Information
+- [ ] DatePicker
+- [ ] Sensors
+- [ ] Download Manager [UNDER DEV]
+- [ ] Contacts
+- [ ] Messaging
