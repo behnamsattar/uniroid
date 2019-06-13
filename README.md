@@ -2,6 +2,8 @@
 # Uniroid
 Collection of Android plugins for Unity
 
+NOTICE: Wrok on this project has stopped in favor of Funity! A bridge which makes it possible to use platform plugins written for Flutter in Unity.
+
 [![Join the chat at https://gitter.im/uniroid/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/uniroid/Lobby)
 
 
